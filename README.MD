@@ -1,0 +1,2 @@
+# Gabriel's Homelab
+This repository contains the configuration files and scripts for my homelab setup. It includes Ansible playbooks for managing my servers, Docker Compose files for running various services, and other related resources.

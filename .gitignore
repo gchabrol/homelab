@@ -1,0 +1,3 @@
+/.vscode
+ansible/inventory.ini
+ansible/ansible.cfg
